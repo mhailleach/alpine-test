@@ -1,1 +1,2 @@
 # alpine-test
+docker test
